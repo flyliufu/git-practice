@@ -2,4 +2,8 @@
 本人操作
 add feature
 主干操作
+<<<<<<< HEAD
 主干内容变动
+=======
+branch1 分支内容
+>>>>>>> branch1
